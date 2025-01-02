@@ -1,3 +1,4 @@
 Das ist die erste Zeile
 in meiner neuen Datei
 in meinem neuen Git-Repository.
+Unterstützt jetzt auch Multiple-Choice

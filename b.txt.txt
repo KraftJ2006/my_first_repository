@@ -1,4 +1,5 @@
 Hallo zusammen!
 Diesen Text habe ich hinzugefügt (z.B. zu der GUI das Logo hinzugefügt)
 
+[Logo] 
 [Logo]
